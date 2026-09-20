@@ -1,0 +1,6 @@
+{
+  "name": "OMKAR HILL RUSH",
+  "description": "A high-octane 2D physics hill climb racing game with custom vehicles, terrain upgrades, and dynamic off-road physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
